@@ -1,0 +1,29 @@
+.projects-section {
+  padding: 20px;
+  background-color: white;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.projects-section h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #333;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+.project h3 {
+  margin: 0 0 10px;
+}
+
+.project a {
+  color: #007bff;
+}
+
+.project a:hover {
+  text-decoration: underline;
+}

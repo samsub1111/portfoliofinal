@@ -1,0 +1,41 @@
+.portfolio-background {
+  background-color: rgb(
+    141,
+    124,
+    91
+  ); /* Light pink background for the portfolio */
+}
+
+.header {
+  background-color: rgb(101, 158, 101); /* Dark pink background */
+  color: white;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.header nav a {
+  margin: 0 10px;
+  color: white;
+}
+
+.header nav a:hover {
+  text-decoration: underline;
+}
+
+.main {
+  padding: 20px;
+}
+
+.section {
+  margin-bottom: 40px;
+}
+
+.section h2 {
+  margin-bottom: 20px;
+}

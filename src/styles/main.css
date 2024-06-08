@@ -1,0 +1,36 @@
+.about-section, .experience-section, .projects-section, .skills-section, .contact-section {
+  padding: 20px;
+  background-color: white;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+.project h3 {
+  margin: 0 0 10px;
+}
+
+.project a {
+  color: #007BFF;
+}
+
+.project a:hover {
+  text-decoration: underline;
+}
